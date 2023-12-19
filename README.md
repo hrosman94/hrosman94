@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hrosman94
 - 👀 I’m interested in software development of all kinds! I have a background in both modular and object-oriented programming, relational databases, parallel programming, and computer architecture. Outside of software development, I enjoy lifting weights and music production.
-- 🌱 I’m currently learning Haskell. I also just started researching C# and I'm wanting to learn more front-end!
+- 🌱 I’m currently learning Haskell and also just started researching C#!
 - 📫 How to reach me: healyrosman@gmail.com
 
 <!---
