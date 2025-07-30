@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hrosman94
 - 👀 I’m interested in software development of all kinds! I have a background in both modular and object-oriented programming, relational databases, parallel programming, and computer architecture. Outside of software development, I enjoy lifting weights and music production.
-- 🌱 I’m currently learning Haskell and also just started researching C#!
+- 🌱 I’m currently working on a fitness application which utilizes AI integration to recommend workouts and periodized progression protocols to help users iteratively improve their fitness journeys! 
 - 📫 How to reach me: healyrosman@gmail.com
 
 <!---
